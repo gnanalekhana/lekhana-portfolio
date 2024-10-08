@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gnanalekhana-portfolio/static/css/main.9859d6cc.css",
+    "main.js": "/gnanalekhana-portfolio/static/js/main.112c49e1.js",
+    "static/js/317.6b286042.chunk.js": "/gnanalekhana-portfolio/static/js/317.6b286042.chunk.js",
+    "index.html": "/gnanalekhana-portfolio/index.html",
+    "main.9859d6cc.css.map": "/gnanalekhana-portfolio/static/css/main.9859d6cc.css.map",
+    "main.112c49e1.js.map": "/gnanalekhana-portfolio/static/js/main.112c49e1.js.map",
+    "317.6b286042.chunk.js.map": "/gnanalekhana-portfolio/static/js/317.6b286042.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9859d6cc.css",
+    "static/js/main.112c49e1.js"
+  ]
+}
