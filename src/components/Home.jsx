@@ -102,13 +102,13 @@ const Home = () => {
             transition={{ duration: 0.8, delay: 1.1 }}
             className="flex justify-center space-x-6"
           >
-            <a href="https://github.com/UdayKalyanN" target="_blank" rel="noopener noreferrer" className="text-gray-800 hover:text-blue-400">
+            <a href="https://github.com/gnanalekhana" target="_blank" rel="noopener noreferrer" className="text-gray-800 hover:text-blue-400">
               <FaGithub size={24} />
             </a>
-            <a href="https://www.linkedin.com/in/udaykalyannuthalapati/" target="_blank" rel="noopener noreferrer" className="text-gray-800 hover:text-blue-400">
+            <a href="https://www.linkedin.com/in/gnanalekhana/" target="_blank" rel="noopener noreferrer" className="text-gray-800 hover:text-blue-400">
               <FaLinkedin size={24} />
             </a>
-            <a href="mailto:udaykalyannuthalapati1999@gmail.com" className="text-gray-800 hover:text-blue-400">
+            <a href="mailto:gnanalekhana2807@gmail.com" className="text-gray-800 hover:text-blue-400">
               <FaEnvelope size={24} />
             </a>
           </motion.div>
